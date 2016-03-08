@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=https://readytogo.microsoft.com/global/_layouts/RTG/AssetViewer.aspx?AssetUrl=https://readytogo.microsoft.com/global/asset/pages/microsoft%20azure%20in%20open%20licensing%20-%20azure%20open%20calculator.aspx
+[DOC_fb_xdm_frame_https]
+BASEURL=https://s-static.ak.facebook.com/connect/xd_arbiter/44OwK74u0Ie.js?version=41
+ORIGURL=https://s-static.ak.facebook.com/connect/xd_arbiter/44OwK74u0Ie.js?version=41#channel=f93711dc3e52e8&origin=https%3A%2F%2Freadytogo.microsoft.com
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://readytogo.microsoft.com/global/_layouts/RTG/AssetViewer.aspx?AssetUrl=https://readytogo.microsoft.com/global/asset/pages/microsoft%20azure%20in%20open%20licensing%20-%20azure%20open%20calculator.aspx
