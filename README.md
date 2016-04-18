@@ -10,3 +10,4 @@ Price are estimation only. Prices and other terms of purchase are controlled by 
 
 MICROSOFT MAKES NO WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, AS TO THE INFORMATION IN THIS REPOSITORY.
  
+Portuguese and Spanish Translation include Customer Facing documents only.
