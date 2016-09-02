@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scenarios>
+  <Scenario Currency="1" Id="1">
+    <Category>Dev</Category>
+    <Name>5 - AzureCostEstimatorSample-Scenario 3 - Intelligent Apps with Event Hub, Stream Analytics, Machine Learning and Cognitive Services</Name>
+    <TotalCost>1959.051</TotalCost>
+    <CreatedDate>9/2/2016 9:43:52 AM</CreatedDate>
+    <ScenarioServices>
+      <Service Id="8060" DependentServiceId="0" Subcategory="Event Hubs" RegionId="3" Value3="Ingress Events" Value2="0" Value1="0" Usage="10" Instances="1" Description="" TotalServiceCost="0.28" />
+      <Service Id="8065" DependentServiceId="0" Subcategory="Event Hubs" RegionId="3" Value3="Throughput Units" Value2="0" Value1="0" Usage="744" Instances="1" Description="" TotalServiceCost="22.32" />
+      <Service Id="173" DependentServiceId="0" Subcategory="Stream Analytics" RegionId="3" Value3="0" Value2="0" Value1="0" Usage="1024" Instances="1" Description="" TotalServiceCost="1.024" />
+      <Service Id="15092" DependentServiceId="0" Subcategory="Stream Analytics" RegionId="3" Value3="0" Value2="0" Value1="0" Usage="744" Instances="1" Description="" TotalServiceCost="23.064" />
+      <Service Id="9694" DependentServiceId="0" Subcategory="Block Blob" RegionId="3" Value3="Locally Redundant Storage Standard IO - Block Blob" Value2="0" Value1="0" Usage="1" Instances="51200" Description="" TotalServiceCost="1208.7296" />
+      <Service Id="17616" DependentServiceId="0" Subcategory="Machine Learning" RegionId="1" Value3="0" Value2="0" Value1="-1" Usage="1" Instances="744" Description="" TotalServiceCost="9.99" />
+      <Service Id="17382" DependentServiceId="0" Subcategory="Machine Learning" RegionId="1" Value3="0" Value2="0" Value1="-1" Usage="0" Instances="100" Description="" TotalServiceCost="100" />
+      <Service Id="17621" DependentServiceId="0" Subcategory="Machine Learning" RegionId="1" Value3="0" Value2="0" Value1="-1" Usage="100" Instances="100" Description="" TotalServiceCost="250" />
+      <Service Id="14946" DependentServiceId="0" Subcategory="Sql Basic, Standard, Premium Databases" RegionId="3" Value3="0" Value2="0" Value1="0" Usage="744" Instances="1" Description="" TotalServiceCost="149.9904" />
+      <Service Id="7169" DependentServiceId="0" Subcategory="Bandwidth" RegionId="3" Value3="Data Transfer Out - Zone 1" Value2="0" Value1="0" Usage="1" Instances="1024" Description="" TotalServiceCost="88.653" />
+      <Service Id="4850" DependentServiceId="0" Subcategory="Data Factory" RegionId="4" Value3="High-Frequency Cloud-Activity" Value2="0" Value1="-1" Usage="744" Instances="100" Description="" TotalServiceCost="80" />
+      <Service Id="27187" DependentServiceId="0" Subcategory="Data Factory" RegionId="4" Value3="Data Movement Cloud-Activity" Value2="0" Value1="-1" Usage="744" Instances="100" Description="" TotalServiceCost="25" />
+    </ScenarioServices>
+  </Scenario>
+</Scenarios>
