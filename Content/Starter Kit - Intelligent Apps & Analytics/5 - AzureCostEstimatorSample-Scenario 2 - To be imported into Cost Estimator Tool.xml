@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scenarios>
+  <Scenario Currency="1" Id="1">
+    <Category>Dev</Category>
+    <Name>5 - AzureCostEstimatorSample-Scenario 2 - Advanced Analytics with On-Premises DW and Power BI</Name>
+    <TotalCost>1297.3826</TotalCost>
+    <CreatedDate>9/2/2016 8:07:20 AM</CreatedDate>
+    <ScenarioServices>
+      <Service Id="9694" DependentServiceId="0" Subcategory="Block Blob" RegionId="3" Value3="Locally Redundant Storage Standard IO - Block Blob" Value2="0" Value1="0" Usage="1" Instances="51200" Description="" TotalServiceCost="1208.7296" />
+      <Service Id="7169" DependentServiceId="0" Subcategory="Bandwidth" RegionId="3" Value3="Data Transfer Out - Zone 1" Value2="0" Value1="0" Usage="1" Instances="1024" Description="" TotalServiceCost="88.653" />
+    </ScenarioServices>
+  </Scenario>
+</Scenarios>
