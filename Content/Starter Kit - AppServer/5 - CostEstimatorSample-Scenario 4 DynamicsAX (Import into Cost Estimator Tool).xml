@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scenarios>
+  <Scenario Currency="1" Id="1">
+    <Category>Dev</Category>
+    <Name>5 - CostEstimatorSample-Scenario 4 Dynamics AX</Name>
+    <TotalCost>9275.293</TotalCost>
+    <CreatedDate>9/12/2016 3:01:51 PM</CreatedDate>
+    <ScenarioServices>
+      <Service Id="19539" DependentServiceId="0" Subcategory="VPN Gateway" RegionId="3" Value3="0" Value2="2.25" Value1="0" Usage="744" Instances="1" Description="" TotalServiceCost="141.36" />
+      <Service Id="7169" DependentServiceId="0" Subcategory="Bandwidth" RegionId="3" Value3="Data Transfer Out - Zone 1" Value2="2.25" Value1="0" Usage="1" Instances="1024" Description="" TotalServiceCost="88.653" />
+      <Service Id="9767" DependentServiceId="0" Subcategory="Page Blobs and Disks" RegionId="3" Value3="Locally Redundant Storage Standard IO - Page Blob/Disk" Value2="2.25" Value1="0" Usage="1" Instances="2048" Description="" TotalServiceCost="102.4" />
+      <Service Id="17963" DependentServiceId="10365" Subcategory="Sql Virtual Machine" RegionId="3" Value3="0" Value2="2.25" Value1="0" Usage="744" Instances="4" Description="" TotalServiceCost="6130.56" />
+      <Service Id="10365" DependentServiceId="0" Subcategory="Virtual Machine" RegionId="3" Value3="0" Value2="2.25" Value1="0" Usage="744" Instances="6" Description="" TotalServiceCost="2499.84" />
+      <Service Id="12926" DependentServiceId="0" Subcategory="Virtual Machine" RegionId="3" Value3="0" Value2="2.25" Value1="0" Usage="744" Instances="3" Description="" TotalServiceCost="312.48" />
+    </ScenarioServices>
+  </Scenario>
+</Scenarios>

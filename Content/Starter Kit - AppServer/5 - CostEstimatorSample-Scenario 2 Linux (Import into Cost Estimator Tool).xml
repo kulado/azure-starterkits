@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scenarios>
+  <Scenario Currency="1" Id="1">
+    <Category>Dev</Category>
+    <Name>5 - CostEstimatorSample-Scenario 2 Linux</Name>
+    <TotalCost>1079.453</TotalCost>
+    <CreatedDate>9/12/2016 2:54:38 PM</CreatedDate>
+    <ScenarioServices>
+      <Service Id="19539" DependentServiceId="0" Subcategory="VPN Gateway" RegionId="3" Value3="0" Value2="2.25" Value1="0" Usage="744" Instances="1" Description="" TotalServiceCost="141.36" />
+      <Service Id="7169" DependentServiceId="0" Subcategory="Bandwidth" RegionId="3" Value3="Data Transfer Out - Zone 1" Value2="2.25" Value1="0" Usage="1" Instances="1024" Description="" TotalServiceCost="88.653" />
+      <Service Id="4876" DependentServiceId="0" Subcategory="StorageTransactions" RegionId="3" Value3="0" Value2="2.25" Value1="0" Usage="1" Instances="2000" Description="" TotalServiceCost="7.2" />
+      <Service Id="9767" DependentServiceId="0" Subcategory="Page Blobs and Disks" RegionId="3" Value3="Locally Redundant Storage Standard IO - Page Blob/Disk" Value2="2.25" Value1="0" Usage="1" Instances="2560" Description="" TotalServiceCost="128" />
+      <Service Id="30767" DependentServiceId="0" Subcategory="Virtual Machine" RegionId="3" Value3="0" Value2="2.25" Value1="0" Usage="744" Instances="2" Description="" TotalServiceCost="357.12" />
+      <Service Id="30766" DependentServiceId="0" Subcategory="Virtual Machine" RegionId="3" Value3="0" Value2="2.25" Value1="0" Usage="744" Instances="2" Description="" TotalServiceCost="178.56" />
+      <Service Id="30766" DependentServiceId="0" Subcategory="Virtual Machine" RegionId="3" Value3="0" Value2="2.25" Value1="0" Usage="744" Instances="2" Description="" TotalServiceCost="178.56" />
+    </ScenarioServices>
+  </Scenario>
+</Scenarios>
