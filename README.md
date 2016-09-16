@@ -1,4 +1,5 @@
-# azure-starterkits
+Azure Starter Kits
+
 The Partner Technical Services team can help you accelerate the sales cycle of Microsoft solution through Azure Starter Kit: Technical Presales offerings.
 
 Created by Partner Technical Consultants at the Microsoft Global Partner Services Team, Starter Kits are packaged offerings with a pre-defined configuration aiming at accelerating the sales, development and deployment cycle of the most common Azure solutions. By leveraging an outstanding bill of materials, Partners receive the support and recommendation needed to sell and deploy these popular scenarios in Azure.
